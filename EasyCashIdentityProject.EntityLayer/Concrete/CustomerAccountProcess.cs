@@ -15,3 +15,4 @@ namespace EasyCashIdentityProject.EntityLayer.Concrete
 
     }
 }
+//ID-işlem türü(Gelen,giden ,ödeme,miktar,tarih,alıcı,gönderici)
